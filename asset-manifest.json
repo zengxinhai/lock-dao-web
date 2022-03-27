@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lock-dao-web/static/css/main.1439f6c8.css",
-    "main.js": "/lock-dao-web/static/js/main.1807bd4f.js",
+    "main.js": "/lock-dao-web/static/js/main.a302e027.js",
     "static/js/787.2a82073b.chunk.js": "/lock-dao-web/static/js/787.2a82073b.chunk.js",
     "index.html": "/lock-dao-web/index.html",
     "main.1439f6c8.css.map": "/lock-dao-web/static/css/main.1439f6c8.css.map",
-    "main.1807bd4f.js.map": "/lock-dao-web/static/js/main.1807bd4f.js.map",
+    "main.a302e027.js.map": "/lock-dao-web/static/js/main.a302e027.js.map",
     "787.2a82073b.chunk.js.map": "/lock-dao-web/static/js/787.2a82073b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1439f6c8.css",
-    "static/js/main.1807bd4f.js"
+    "static/js/main.a302e027.js"
   ]
 }
